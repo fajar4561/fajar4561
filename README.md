@@ -2,7 +2,7 @@
   <a href="https://www.edisonlee55.com"><img src="banner.png" alt="edisonlee55 Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
+<h1 align="center">Hi, I'm <a href="#">Fajar Thoreck</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
